@@ -3,7 +3,7 @@ public class First {
 	Second sec = new Second();
 	
 	First(){
-		System.out.println("third");
+		System.out.println("Yuval second commit");
 	}
 }
 
